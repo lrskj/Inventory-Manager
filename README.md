@@ -1,5 +1,4 @@
-Please carefully read the following in order to make use of the accompanying files. 
-These are detailed instructions on how to set up and run the Wine Shop Reports application. 
+Instructions on how to set up and run the Wine Shop Reports application. 
 This application is Python-based, and will generate reports from a MySQL database for use 
 in your wine shop. 
 
